@@ -1,0 +1,12 @@
+SMAP
+footer_jsp.java
+JSP
+*S JSP
+*F
++ 0 footer.jsp
+WEB-INF/inc/footer.jsp
+*L
+1,50:45
+51:95,3
+52,7:98
+*E
